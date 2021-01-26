@@ -3,5 +3,6 @@ public class HelloTest {
         System.out.println("Hi guys");
 
         // testing my hello
+        System.out.println("The weather is rainy today");
     }
 }
